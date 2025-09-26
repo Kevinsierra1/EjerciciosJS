@@ -2,14 +2,6 @@
 
 Una colección de ejercicios prácticos de JavaScript que cubren diferentes conceptos de programación, desde algoritmos básicos hasta problemas más complejos de lógica y estructuras de datos.
 
-## 📋 Tabla de Contenidos
-
-- [Instalación y Uso](https://claude.ai/chat/ef5d32bb-813d-4384-8c88-cb130b550d3a#instalación-y-uso)
-- [Lista de Ejercicios](https://claude.ai/chat/ef5d32bb-813d-4384-8c88-cb130b550d3a#lista-de-ejercicios)
-- [Descripción Detallada](https://claude.ai/chat/ef5d32bb-813d-4384-8c88-cb130b550d3a#descripción-detallada)
-- [Tecnologías Utilizadas](https://claude.ai/chat/ef5d32bb-813d-4384-8c88-cb130b550d3a#tecnologías-utilizadas)
-- [Estructura del Proyecto](https://claude.ai/chat/ef5d32bb-813d-4384-8c88-cb130b550d3a#estructura-del-proyecto)
-
 ## 🛠️ Instalación y Uso
 
 1. **Clonar el repositorio** (si aplica):
