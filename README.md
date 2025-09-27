@@ -2,6 +2,10 @@
 
 Una colección de ejercicios prácticos de JavaScript que cubren diferentes conceptos de programación, desde algoritmos básicos hasta problemas más complejos de lógica y estructuras de datos.
 
+## Netlify
+
+[exquisite-tarsier-b6161a.netlify.app](https://exquisite-tarsier-b6161a.netlify.app/)
+
 ## 🛠️ Instalación y Uso
 
 1. **Clonar el repositorio** (si aplica):
@@ -167,4 +171,6 @@ modificaciones = [[101, 1627845700], [102, 1627845800]]
 - Código documentado con JSDoc para funciones principales
 
 ------
+## Créditos
 
+Desarrollado por Kevin Sierra.
